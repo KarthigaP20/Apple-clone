@@ -86,7 +86,7 @@ Apple-Clone/
 ![Footer](src/assets/images/Screenshots/Footerlg.png)
 
 ### 4. Responsive Layout
-![Responsive](src/assets/images/Screenshots/Responsive.png)
+![Responsive](src/assets/images/Screenshots/Products.png)
 
 
 ## Author
@@ -95,7 +95,7 @@ Developed by [Karthiga P](https://github.com/KarthigaP20)
 
 ## Live Demo
 
-Visit the live site: [Apple Clone Website](https://karthigap20.github.io/Apple-Clone/)
+Visit the live site: [Apple Clone Website](https://karthigap20.github.io/Apple-clone/)
 
 ## Feedback
 
