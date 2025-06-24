@@ -86,7 +86,7 @@ Apple-Clone/
 ![Footer](src/assets/images/Screenshots/Footerlg.png)
 
 ### 4. Responsive Layout
-![Responsive](src/assets/images/Screenshots/Products.png)
+![Responsive](src/assets/images/Screenshots/Footersm.png)
 
 
 ## Author
